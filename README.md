@@ -1,4 +1,3 @@
-# moneyMade
 # MoneyMade
 
 ## Project 
